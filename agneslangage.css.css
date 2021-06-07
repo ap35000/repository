@@ -1,0 +1,19 @@
+body {
+    background-image: linear-gradient(#e9edc9, #cb997e);
+}
+body {
+  font-family: Lucida Handwriting;
+  color: blue;
+}
+h1 {
+  color: #d62828;
+}
+h2 {
+  color: rgb(109, 109, 109);
+}
+img {
+  width: 80%;
+  height: auto; 
+  /* auto permet d'adaper la taille de l'image en fonction de la taille de 
+  l'écran du navigateur*/
+}
